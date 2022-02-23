@@ -86,5 +86,4 @@ export default StyleSheet.create({
   grid: {
     marginTop: 20
   }
- // {{alignContent: 'center', paddingHorizontal: '10%'}}
 });
